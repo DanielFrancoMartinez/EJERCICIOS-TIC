@@ -1,5 +1,5 @@
 def saludador(nombre):
-    print "puto rojo",nombre
-    print "whatever it takes brah?"
+    print "hola",nombre
+    print "como estas?"
     
-saludador("donde esta mi trembolona")    
+saludador("donde vives")    
